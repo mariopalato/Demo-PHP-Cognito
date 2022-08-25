@@ -12,7 +12,7 @@
 	<?php include 'navbar.php'?>
 	<br>
 	<div style="background: #e6faff;" class="container p-5">
-		<h2>Demo AWS Cognito con PHP y Cambios desde Github con CICD</h2>
+		<h2>Demo AWS Cognito con PHP y Cambios desde Github Desktop con CICD</h2>
 		<br>
 		<div id="demo" class="carousel slide" data-bs-ride="carousel">
 
